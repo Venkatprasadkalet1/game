@@ -135,3 +135,4 @@ function accelerate(n) {
 <p>Let's check how long you alive?</p>
 </body>
 </html>
+nice game
